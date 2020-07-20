@@ -26,9 +26,13 @@
 13. whos<br>
 ![whos](docs/13.png)
 14. clear x<br>
-![clear x - before](docs/14_1.png)<br>[clear x - code](docs/14_2.png)<br>[clear x - after](docs/14_3.png)
+![clear x - before](docs/14_1.png)<br>
+![clear x - code](docs/14_2.png)<br>
+![clear x - after](docs/14_3.png)
 15. clear<br>
-![clear](docs/15_1.png)<br>[clear - code](docs/15_2.png)<br>[clear - after](docs/15_3.png)
+!["clear - before"](docs/15_1.png)<br>
+![clear - code](docs/15_2.png)<br>
+![clear - after](docs/15_3.png)
 <br><br><br>
 [Matlab Onramp Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=4cc77241-72c8-4b15-8469-ef01ed56c083)<br>
 [Matlab Onramp Progress](https://matlabacademy.mathworks.com/progress/share/report.html?id=4cc77241-72c8-4b15-8469-ef01ed56c083)<br>
