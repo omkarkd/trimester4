@@ -6,8 +6,8 @@
 3. Dharamveer Rana
 
 ## Work
-1. Amazon Services
-![Amazon Services](docs/1.jpg)
-2. ![]()
-3. ![]()
-4. ![]()
+1. Sign up and Login into Amazon Services
+![Amazon Services](docs/1.jpg)<br> 
+![Amazon Compute](docs/1.png)<br>
+![]()<br>
+![]()<br>
