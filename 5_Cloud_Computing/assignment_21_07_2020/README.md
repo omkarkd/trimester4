@@ -6,7 +6,8 @@
 3. Dharamveer Rana
 
 ## Work
-1. ![Amazon Services](docs/1.jpg)
+1. Amazon Services
+![Amazon Services](docs/1.jpg)
 2. ![]()
 3. ![]()
 4. ![]()
